@@ -1,0 +1,83 @@
+All repository together -----------------------------
+MmCorpus(4303 documents, 18753 features, 115806 non-zero entries)
+MmCorpus(4303 documents, 18753 features, 115806 non-zero entries)
+LdaModel(num_terms=18753, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(4303 documents, 10 features, 42995 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f832b8878d0>
+MmCorpus(4303 documents, 10 features, 43030 non-zero entries)
+
+*** id2word.filter_extremes(no_below=10, no_above=0.1)
+
+MmCorpus(4303 documents, 1525 features, 74991 non-zero entries)
+MmCorpus(4303 documents, 1525 features, 74991 non-zero entries)
+LdaModel(num_terms=1525, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(4303 documents, 10 features, 43030 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f83184f7ef0>
+MmCorpus(4303 documents, 10 features, 43030 non-zero entries)
+
+Cakephp-------------------------------------
+MmCorpus(419 documents, 2301 features, 9024 non-zero entries)
+MmCorpus(419 documents, 2301 features, 9024 non-zero entries)
+LdaModel(num_terms=2301, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(419 documents, 10 features, 4175 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f832bddc358>
+MmCorpus(419 documents, 10 features, 4190 non-zero entries)
+
+**** id2word.filter_extremes(no_below=10, no_above=0.1)
+MmCorpus(419 documents, 175 features, 2991 non-zero entries)
+MmCorpus(419 documents, 175 features, 2991 non-zero entries)
+LdaModel(num_terms=175, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(419 documents, 10 features, 4190 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f83184fb208>
+MmCorpus(419 documents, 10 features, 4190 non-zero entries)
+
+WebFundamentals-----------------------
+MmCorpus(623 documents, 1746 features, 6543 non-zero entries)
+MmCorpus(623 documents, 1746 features, 6543 non-zero entries)
+LdaModel(num_terms=1746, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(623 documents, 10 features, 6230 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f832bddc2e8>
+MmCorpus(623 documents, 10 features, 6230 non-zero entries)
+Chartjs-----------------------
+MmCorpus(214 documents, 1500 features, 4941 non-zero entries)
+MmCorpus(214 documents, 1500 features, 4941 non-zero entries)
+LdaModel(num_terms=1500, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(214 documents, 10 features, 2140 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f8331e3b518>
+MmCorpus(214 documents, 10 features, 2140 non-zero entries)
+appium-----------------------
+MmCorpus(73 documents, 592 features, 3892 non-zero entries)
+MmCorpus(73 documents, 592 features, 3892 non-zero entries)
+LdaModel(num_terms=592, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(73 documents, 10 features, 730 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f832b6c39b0>
+MmCorpus(73 documents, 10 features, 730 non-zero entries)
+NO SE PUEDE ENTERNAR
+playframework--------------------------
+MmCorpus(545 documents, 2677 features, 13499 non-zero entries)
+MmCorpus(545 documents, 2677 features, 13499 non-zero entries)
+LdaModel(num_terms=2677, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(545 documents, 10 features, 5434 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f83357ad7f0>
+MmCorpus(545 documents, 10 features, 5450 non-zero entries)
+
+elasticsearch---------------------------------
+MmCorpus(2073 documents, 15191 features, 64470 non-zero entries)
+MmCorpus(2073 documents, 15191 features, 64470 non-zero entries)
+LdaModel(num_terms=15191, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(2073 documents, 10 features, 20716 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f83356aef60>
+MmCorpus(2073 documents, 10 features, 20730 non-zero entries)
+
+Leaflet-------------------------------------------------------
+MmCorpus(144 documents, 1148 features, 2644 non-zero entries)
+MmCorpus(144 documents, 1148 features, 2644 non-zero entries)
+LdaModel(num_terms=1148, num_topics=10, decay=0.5, chunksize=2000)
+MmCorpus(144 documents, 10 features, 1431 non-zero entries)
+<gensim.models.wrappers.ldamallet.LdaMallet object at 0x7f832ba93550>
+MmCorpus(144 documents, 10 features, 1440 non-zero entries)
+
+
+
+
+
